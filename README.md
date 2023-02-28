@@ -1,5 +1,4 @@
-- Hi, I’m Dean Miller
-- I’m interested in all things Azure
+- Hi, I’m Dean Miller, I’m interested in all things Azure :)
 
 <!---
 DP-Miller/DP-Miller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
